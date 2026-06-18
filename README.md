@@ -1,5 +1,3 @@
-# M3t--scr-p3r
-a metadata scraper for all types of files and URLs
 # m3eta-scr@p3r
 
 A Debian/Linux metadata collection utility written as a single Bash script.
